@@ -30,12 +30,3 @@ export default function ModalWindow({ image, isOpen, onClose }) {
     </Modal>
   );
 }
-/*<div className={css.wrapper}>
-  <img
-    className={css.image}
-    onClick={onClose}
-    src={image.urls.regular}
-    alt={image.description}
-  />
-  <p>{image.description}</p>
-</div>;*/

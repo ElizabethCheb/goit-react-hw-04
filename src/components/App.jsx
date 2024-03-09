@@ -1,4 +1,3 @@
-// components/App.jsx
 import React, { useState, useEffect } from 'react';
 import SearchBar from './SearchBar/SearchBar';
 import ImageGallery from './ImageGallery/ImageGallery';
